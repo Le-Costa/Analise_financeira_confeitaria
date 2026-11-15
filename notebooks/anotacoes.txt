@@ -1,0 +1,4 @@
+id, data e hora, meio pagamento, bandeira, valor venda,nvalior taxa, valor recer,previ e situuação
+ddata da vena, hora, tipo de pagamento,  bandeira, valor bruto, taxa,VALOR LIQUIDO, DATA DE REECEBIMENTO, ststus e id 
+
+-- ID, DATA, MEIO DE APAGAMENTO, VALOR DA VENDA, TAXA, VALOR LIQUIDO, PREVISAO DE RECEBIMNENTO,STATUS
